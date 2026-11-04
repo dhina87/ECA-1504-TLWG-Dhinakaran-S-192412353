@@ -1,0 +1,4 @@
+Frequency sweep: 2, 4, 6, 8 and 10 kHz with C=8 microF/km.
+Capacitance sweep: 8, 10, 12, 14 and 16 microF/km at f=2.5 kHz.
+Fixed values: R=10 ohm/km, L=9 mH/km, G=4 micromho/km.
+Run program.sce and save your actual console output here.

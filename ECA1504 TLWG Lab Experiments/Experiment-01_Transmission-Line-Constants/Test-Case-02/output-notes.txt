@@ -1,0 +1,5 @@
+One execution prints two tables:
+1) R = 10, 20, 30, 40, 50 ohm/km with L=3 mH/km.
+2) L = 3.5, 6, 8.5, 11.5 mH/km with R=10 ohm/km.
+Fixed values: f=2 kHz, G=4 micromho/km, C=8 microF/km.
+Run the program in SCILAB and paste/save the actual console output here.

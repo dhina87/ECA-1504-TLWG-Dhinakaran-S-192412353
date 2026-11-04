@@ -1,0 +1,2 @@
+Master-record nominal parameters: R=10 ohm/km, L=3.5 mH/km, G=4 micromho/km, C=8 microF/km, f=2 kHz.
+Run program.sce in SCILAB to generate the numerical output. Retain the console output from your own run here.

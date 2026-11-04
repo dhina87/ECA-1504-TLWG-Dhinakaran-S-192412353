@@ -1,0 +1,2 @@
+Run program.sce in SCILAB 6.1.1 to produce the numerical output.
+Important: This is a starter calculation script. Verify all input values, mode indices, material constants and test-case variations against the master record before using it as a final practical result. Save your own execution output here.
