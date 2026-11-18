@@ -1,2 +1,0 @@
-Run the model in TNT 1.2.2 and paste the measured/simulated values and screenshots here.
-The supplied master record uses TNT 1.2.2 for this experiment.
